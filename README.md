@@ -6,13 +6,18 @@ The Weather Forecast App is a simple and intuitive application that provides rea
 
 **Features**
 
-**Real-time Weather Updates:** Get the current weather conditions, including temperature, humidity, wind speed, and more.
+  * **Real-time Weather Updates:** Get the current weather conditions, including temperature, humidity, wind speed, and more.
 
-**Search Functionality:** Search for weather information by city name.
+  * **Search Functionality:** Search for weather information by city name.
 
 **Technologies Used**
 
-**Frontend:** HTML, CSS, JavaScript
+  * **Frontend:** HTML, CSS, JavaScript
 
-**API:** OpenWeatherMap API
+  * **API:** OpenWeatherMap API
+
+**Output**
+
+
+
 
