@@ -18,8 +18,9 @@ The Weather Forecast App is a simple and intuitive application that provides rea
 
 **Output**
 
-![Uploading Screenshot 2024-07-15 160524.png…]()
 
-![Screenshot 2024-07-15 160622](https://github.com/user-attachments/assets/9c59d9d1-12f2-4ab1-9046-1d2b311fa755)
+![Screenshot 2024-07-15 160524](https://github.com/user-attachments/assets/e187b109-5827-49a1-aeec-fd8c2b305867)
 
-![Uploading Screenshot 2024-07-15 160647.png…]()
+![Screenshot 2024-07-15 160622](https://github.com/user-attachments/assets/ff74cb6f-8efe-421a-94b6-fef52be15a00)
+
+![Screenshot 2024-07-15 160647](https://github.com/user-attachments/assets/7368a135-016b-4de4-9cf9-51ee38d888a9)
