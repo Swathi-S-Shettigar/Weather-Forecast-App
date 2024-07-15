@@ -12,6 +12,8 @@ Features
 Technologies Used
 
 Frontend: HTML, CSS, JavaScript
+
 Backend: Node.js, Express
+
 API: OpenWeatherMap API
 
