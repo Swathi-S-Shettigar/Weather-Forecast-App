@@ -18,6 +18,10 @@ The Weather Forecast App is a simple and intuitive application that provides rea
 
 **Output**
 
+![Uploading Screenshot 2024-07-15 160524.png…]()
 
+![Uploading Screenshot 2024-07-15 160524.png…]()
+
+![Uploading Screenshot 2024-07-15 160647.png…]()
 
 
