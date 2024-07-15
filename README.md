@@ -1,17 +1,17 @@
 # Weather-Forecast-App
 
-Overview
+**Overview**
 
 The Weather Forecast App is a simple and intuitive application that provides real-time weather updates and forecasts for various locations around the globe. This app fetches data from a OpenWeatherMap API and displays current weather conditions.
 
-Features
+**Features**
 
-* Real-time Weather Updates: Get the current weather conditions, including temperature, humidity, wind speed, and more.
-* Search Functionality: Search for weather information by city name.
+**Real-time Weather Updates:** Get the current weather conditions, including temperature, humidity, wind speed, and more.
+**Search Functionality:** Search for weather information by city name.
 
-Technologies Used
+**Technologies Used**
 
-* Frontend: HTML, CSS, JavaScript
+**Frontend:** HTML, CSS, JavaScript
 
-* API: OpenWeatherMap API
+**API:** OpenWeatherMap API
 
