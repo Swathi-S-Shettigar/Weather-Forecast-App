@@ -16,6 +16,10 @@ The Weather Forecast App is a simple and intuitive application that provides rea
 
   * **API:** OpenWeatherMap API
 
+**Demo Video**
+
+https://www.linkedin.com/posts/swathi-s-shettigar-038683313_weatherapp-webdevelopment-internship-activity-7218616999763927041-SVfy?utm_source=share&utm_medium=member_desktop
+
 **Output**
 
 
