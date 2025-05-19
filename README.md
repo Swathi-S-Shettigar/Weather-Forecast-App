@@ -29,7 +29,8 @@ A responsive and interactive weather application built using JavaScript, HTML, a
 
 ![Screenshot 2025-05-19 124711](https://github.com/user-attachments/assets/ea38723f-4adf-4a95-8757-c8ec0c531742)
 
-
+## Demo Video
+https://drive.google.com/file/d/15NN7ZEO67wKJyTIq79YdlzO54gmoXws1/view?usp=sharing
 ## Getting Started
 
 ```bash
