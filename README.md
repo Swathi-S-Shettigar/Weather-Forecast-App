@@ -1,30 +1,38 @@
-# Weather-Forecast-App
+# Weather Forecast Web App
 
-**Overview**
+A responsive and interactive weather application built using JavaScript, HTML, and CSS. The app utilizes the OpenWeatherMap API to fetch and display current weather conditions, hourly forecasts, and 5-day forecasts with dynamic UI updates.
 
-The Weather Forecast App is a simple and intuitive application that provides real-time weather updates and forecasts for various locations around the globe. This app fetches data from a OpenWeatherMap API and displays current weather conditions.
+## Features
 
-**Features**
+- **Geolocation Support** – Auto-detects user's location and fetches weather data.
+- **City Search** – Manually search weather by city name.
+- **Hourly Forecast** – Displays hourly forecast for selected day (default: today).
+- **5-Day Forecast** – Interactive day cards that update the hourly forecast on click.
+- **Air Conditions Display** – Wind speed, humidity, sunrise/sunset time, rain chance, and UV index.
+- **Voice Search** – Use your voice to search cities via Web Speech API.
+- **Responsive UI** – Works across desktops, tablets, and mobile devices.
+- **Clean Design** – Neon-style weather cards, animated icons, and glow effects.
 
-  * **Real-time Weather Updates:** Get the current weather conditions, including temperature, humidity, wind speed.
+## Tech Stack
 
-  * **Search Functionality:** Search for weather information by city name.
+- **Frontend**: HTML, CSS, JavaScript
+- **API**: [OpenWeatherMap](https://openweathermap.org/)
+- **APIs Used**:
+  - `/weather`
+  - `/forecast`
+  - `/onecall` (for air conditions)
 
-**Technologies Used**
+## Screenshots
 
-  * **Frontend:** HTML, CSS, JavaScript
+![Screenshot 2025-05-19 124615](https://github.com/user-attachments/assets/2145f7e2-500e-48f5-9836-117e2d946c1f)
+![Screenshot 2025-05-19 124832](https://github.com/user-attachments/assets/79d73715-6e54-480f-ae59-52dc3ac4ab7a)
 
-  * **API:** OpenWeatherMap API
-
-**Demo Video**
-
-https://www.linkedin.com/posts/swathi-s-shettigar-038683313_weatherapp-webdevelopment-internship-activity-7218616999763927041-SVfy?utm_source=share&utm_medium=member_desktop
-
-**Output**
+![Screenshot 2025-05-19 124711](https://github.com/user-attachments/assets/ea38723f-4adf-4a95-8757-c8ec0c531742)
 
 
-![Screenshot 2024-07-15 160524](https://github.com/user-attachments/assets/e187b109-5827-49a1-aeec-fd8c2b305867)
+## Getting Started
 
-![Screenshot 2024-07-15 160622](https://github.com/user-attachments/assets/ff74cb6f-8efe-421a-94b6-fef52be15a00)
-
-![Screenshot 2024-07-15 160647](https://github.com/user-attachments/assets/7368a135-016b-4de4-9cf9-51ee38d888a9)
+```bash
+git clone https://github.com/your-username/weather-forecast-app.git
+cd weather-forecast-app
+# Open index.html in your browser
